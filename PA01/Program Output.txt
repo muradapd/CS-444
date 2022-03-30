@@ -1,0 +1,131 @@
+A*, h1:
+[8, 3, 4, 6, 7, 5, 2, 1, 0]
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+23523.622
+
+A*, h2:
+[8, 3, 4, 6, 7, 5, 2, 1, 0]
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+23.968
+
+A*, h1:
+[6, 8, 5, 1, 7, 3, 4, 2, 0]
+['LEFT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+3534.516
+
+A*, h2:
+[6, 8, 5, 1, 7, 3, 4, 2, 0]
+['LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+25.929
+
+A*, h1:
+[3, 8, 1, 6, 4, 5, 0, 7, 2]
+['UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+31710.409
+
+A*, h2:
+[3, 8, 1, 6, 4, 5, 0, 7, 2]
+['UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+130.649
+
+A*, h1:
+[2, 7, 8, 3, 1, 4, 0, 5, 6]
+['UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+131989.833
+
+A*, h2:
+[2, 7, 8, 3, 1, 4, 0, 5, 6]
+['RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+620.341
+
+A*, h1:
+[1, 8, 6, 0, 4, 2, 7, 3, 5]
+['RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+28.924
+
+A*, h2:
+[1, 8, 6, 0, 4, 2, 7, 3, 5]
+['RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+7.978
+
+IDS:
+[1, 8, 6, 0, 4, 2, 7, 3, 5]
+['RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+31187.624
+
+A*, h1:
+[3, 0, 8, 5, 7, 2, 4, 6, 1]
+['RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+60454.326
+
+A*, h2:
+[3, 0, 8, 5, 7, 2, 4, 6, 1]
+['RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+199.463
+
+A*, h1:
+[0, 5, 7, 6, 4, 8, 2, 1, 3]
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+129100.088
+
+A*, h2:
+[0, 5, 7, 6, 4, 8, 2, 1, 3]
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+212.43
+
+A*, h1:
+[4, 2, 7, 6, 0, 1, 5, 3, 8]
+['RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+7296.807
+
+A*, h2:
+[4, 2, 7, 6, 0, 1, 5, 3, 8]
+['RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+50.828
+
+A*, h1:
+[5, 1, 8, 4, 6, 3, 2, 0, 7]
+['LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+340.912
+
+A*, h2:
+[5, 1, 8, 4, 6, 3, 2, 0, 7]
+['LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+9.01
+
+IDS:
+[5, 1, 8, 4, 6, 3, 2, 0, 7]
+['LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+1870567.632
+
+A*, h1:
+[7, 8, 2, 6, 5, 1, 0, 3, 4]
+['UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+100018.989
+
+A*, h2:
+[7, 8, 2, 6, 5, 1, 0, 3, 4]
+['UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN']
+(1, 2, 3, 4, 5, 6, 7, 8, 0)
+80.819
